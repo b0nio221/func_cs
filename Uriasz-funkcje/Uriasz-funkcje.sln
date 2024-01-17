@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uriasz-funkcje", "Uriasz-funkcje.csproj", "{ADB7FE02-0321-4582-ADFA-8EA678318CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB7FE02-0321-4582-ADFA-8EA678318CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB7FE02-0321-4582-ADFA-8EA678318CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB7FE02-0321-4582-ADFA-8EA678318CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB7FE02-0321-4582-ADFA-8EA678318CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0F4DE20-30F6-4D4B-BD6C-64255082E0B1}
+	EndGlobalSection
+EndGlobal
